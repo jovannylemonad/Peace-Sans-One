@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="1">
+  <advance width="690"/>
+  <unicode hex="005A"/>
+  <outline>
+    <contour>
+      <point x="630" y="480" type="line" name="hr00"/>
+      <point x="630" y="700" type="line"/>
+      <point x="70" y="700" type="line"/>
+      <point x="70" y="480" type="line"/>
+      <point x="300" y="480" type="line"/>
+      <point x="50" y="220" type="line"/>
+      <point x="50" y="4" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="640" y="0" type="line"/>
+      <point x="640" y="220" type="line"/>
+      <point x="380" y="220" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>50</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>630</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="0" width="220" />
+      <hstem pos="480" width="220" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="835"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="20" y="700" type="line" name="hr00"/>
+      <point x="20" y="590" type="line"/>
+      <point x="100" y="590" type="line"/>
+      <point x="100" y="410" type="line"/>
+      <point x="230" y="410" type="line"/>
+      <point x="230" y="590" type="line"/>
+      <point x="310" y="590" type="line"/>
+      <point x="310" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="615" y="410" type="line"/>
+      <point x="665" y="570" type="line"/>
+      <point x="665" y="410" type="line"/>
+      <point x="795" y="410" type="line"/>
+      <point x="795" y="700" type="line"/>
+      <point x="615" y="700" type="line"/>
+      <point x="565" y="540" type="line"/>
+      <point x="515" y="700" type="line"/>
+      <point x="335" y="700" type="line"/>
+      <point x="335" y="410" type="line"/>
+      <point x="465" y="410" type="line"/>
+      <point x="465" y="570" type="line"/>
+      <point x="515" y="410" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="431" width="-21" />
+      <hstem pos="590" width="110" />
+      <vstem pos="100" width="130" />
+      <vstem pos="335" width="130" />
+      <vstem pos="665" width="130" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
